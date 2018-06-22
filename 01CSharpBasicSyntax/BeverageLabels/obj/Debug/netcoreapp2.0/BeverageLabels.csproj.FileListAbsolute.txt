@@ -1,0 +1,11 @@
+C:\VS Projects\CSharpBasicSyntax\BeverageLabels\bin\Debug\netcoreapp2.0\BeverageLabels.deps.json
+C:\VS Projects\CSharpBasicSyntax\BeverageLabels\bin\Debug\netcoreapp2.0\BeverageLabels.runtimeconfig.json
+C:\VS Projects\CSharpBasicSyntax\BeverageLabels\bin\Debug\netcoreapp2.0\BeverageLabels.runtimeconfig.dev.json
+C:\VS Projects\CSharpBasicSyntax\BeverageLabels\bin\Debug\netcoreapp2.0\BeverageLabels.dll
+C:\VS Projects\CSharpBasicSyntax\BeverageLabels\bin\Debug\netcoreapp2.0\BeverageLabels.pdb
+C:\VS Projects\CSharpBasicSyntax\BeverageLabels\obj\Debug\netcoreapp2.0\BeverageLabels.csprojAssemblyReference.cache
+C:\VS Projects\CSharpBasicSyntax\BeverageLabels\obj\Debug\netcoreapp2.0\BeverageLabels.csproj.CoreCompileInputs.cache
+C:\VS Projects\CSharpBasicSyntax\BeverageLabels\obj\Debug\netcoreapp2.0\BeverageLabels.AssemblyInfoInputs.cache
+C:\VS Projects\CSharpBasicSyntax\BeverageLabels\obj\Debug\netcoreapp2.0\BeverageLabels.AssemblyInfo.cs
+C:\VS Projects\CSharpBasicSyntax\BeverageLabels\obj\Debug\netcoreapp2.0\BeverageLabels.dll
+C:\VS Projects\CSharpBasicSyntax\BeverageLabels\obj\Debug\netcoreapp2.0\BeverageLabels.pdb
