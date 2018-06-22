@@ -1,0 +1,11 @@
+C:\VS Projects\ContitionalStatementsAndLoops\P01gradeAboveThree\bin\Debug\netcoreapp2.0\P01gradeAboveThree.deps.json
+C:\VS Projects\ContitionalStatementsAndLoops\P01gradeAboveThree\bin\Debug\netcoreapp2.0\P01gradeAboveThree.runtimeconfig.json
+C:\VS Projects\ContitionalStatementsAndLoops\P01gradeAboveThree\bin\Debug\netcoreapp2.0\P01gradeAboveThree.runtimeconfig.dev.json
+C:\VS Projects\ContitionalStatementsAndLoops\P01gradeAboveThree\bin\Debug\netcoreapp2.0\P01gradeAboveThree.dll
+C:\VS Projects\ContitionalStatementsAndLoops\P01gradeAboveThree\bin\Debug\netcoreapp2.0\P01gradeAboveThree.pdb
+C:\VS Projects\ContitionalStatementsAndLoops\P01gradeAboveThree\obj\Debug\netcoreapp2.0\P01gradeAboveThree.csprojAssemblyReference.cache
+C:\VS Projects\ContitionalStatementsAndLoops\P01gradeAboveThree\obj\Debug\netcoreapp2.0\P01gradeAboveThree.csproj.CoreCompileInputs.cache
+C:\VS Projects\ContitionalStatementsAndLoops\P01gradeAboveThree\obj\Debug\netcoreapp2.0\P01gradeAboveThree.AssemblyInfoInputs.cache
+C:\VS Projects\ContitionalStatementsAndLoops\P01gradeAboveThree\obj\Debug\netcoreapp2.0\P01gradeAboveThree.AssemblyInfo.cs
+C:\VS Projects\ContitionalStatementsAndLoops\P01gradeAboveThree\obj\Debug\netcoreapp2.0\P01gradeAboveThree.dll
+C:\VS Projects\ContitionalStatementsAndLoops\P01gradeAboveThree\obj\Debug\netcoreapp2.0\P01gradeAboveThree.pdb

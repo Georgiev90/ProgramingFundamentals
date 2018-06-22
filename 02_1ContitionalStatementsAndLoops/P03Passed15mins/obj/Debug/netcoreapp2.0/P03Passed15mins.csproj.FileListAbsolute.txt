@@ -1,0 +1,11 @@
+C:\VS Projects\ContitionalStatementsAndLoops\P03Passed15mins\bin\Debug\netcoreapp2.0\P03Passed15mins.deps.json
+C:\VS Projects\ContitionalStatementsAndLoops\P03Passed15mins\bin\Debug\netcoreapp2.0\P03Passed15mins.runtimeconfig.json
+C:\VS Projects\ContitionalStatementsAndLoops\P03Passed15mins\bin\Debug\netcoreapp2.0\P03Passed15mins.runtimeconfig.dev.json
+C:\VS Projects\ContitionalStatementsAndLoops\P03Passed15mins\bin\Debug\netcoreapp2.0\P03Passed15mins.dll
+C:\VS Projects\ContitionalStatementsAndLoops\P03Passed15mins\bin\Debug\netcoreapp2.0\P03Passed15mins.pdb
+C:\VS Projects\ContitionalStatementsAndLoops\P03Passed15mins\obj\Debug\netcoreapp2.0\P03Passed15mins.csprojAssemblyReference.cache
+C:\VS Projects\ContitionalStatementsAndLoops\P03Passed15mins\obj\Debug\netcoreapp2.0\P03Passed15mins.csproj.CoreCompileInputs.cache
+C:\VS Projects\ContitionalStatementsAndLoops\P03Passed15mins\obj\Debug\netcoreapp2.0\P03Passed15mins.AssemblyInfoInputs.cache
+C:\VS Projects\ContitionalStatementsAndLoops\P03Passed15mins\obj\Debug\netcoreapp2.0\P03Passed15mins.AssemblyInfo.cs
+C:\VS Projects\ContitionalStatementsAndLoops\P03Passed15mins\obj\Debug\netcoreapp2.0\P03Passed15mins.dll
+C:\VS Projects\ContitionalStatementsAndLoops\P03Passed15mins\obj\Debug\netcoreapp2.0\P03Passed15mins.pdb

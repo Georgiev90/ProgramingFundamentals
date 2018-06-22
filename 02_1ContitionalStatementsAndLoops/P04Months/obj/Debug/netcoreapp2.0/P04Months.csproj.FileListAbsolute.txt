@@ -1,0 +1,11 @@
+C:\VS Projects\ContitionalStatementsAndLoops\P04Months\bin\Debug\netcoreapp2.0\P04Months.deps.json
+C:\VS Projects\ContitionalStatementsAndLoops\P04Months\bin\Debug\netcoreapp2.0\P04Months.runtimeconfig.json
+C:\VS Projects\ContitionalStatementsAndLoops\P04Months\bin\Debug\netcoreapp2.0\P04Months.runtimeconfig.dev.json
+C:\VS Projects\ContitionalStatementsAndLoops\P04Months\bin\Debug\netcoreapp2.0\P04Months.dll
+C:\VS Projects\ContitionalStatementsAndLoops\P04Months\bin\Debug\netcoreapp2.0\P04Months.pdb
+C:\VS Projects\ContitionalStatementsAndLoops\P04Months\obj\Debug\netcoreapp2.0\P04Months.csprojAssemblyReference.cache
+C:\VS Projects\ContitionalStatementsAndLoops\P04Months\obj\Debug\netcoreapp2.0\P04Months.csproj.CoreCompileInputs.cache
+C:\VS Projects\ContitionalStatementsAndLoops\P04Months\obj\Debug\netcoreapp2.0\P04Months.AssemblyInfoInputs.cache
+C:\VS Projects\ContitionalStatementsAndLoops\P04Months\obj\Debug\netcoreapp2.0\P04Months.AssemblyInfo.cs
+C:\VS Projects\ContitionalStatementsAndLoops\P04Months\obj\Debug\netcoreapp2.0\P04Months.dll
+C:\VS Projects\ContitionalStatementsAndLoops\P04Months\obj\Debug\netcoreapp2.0\P04Months.pdb

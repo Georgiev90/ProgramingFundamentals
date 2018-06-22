@@ -1,0 +1,11 @@
+C:\VS Projects\ContitionalStatementsAndLoops\P07DivisibleByThree\bin\Debug\netcoreapp2.0\P07DivisibleByThree.deps.json
+C:\VS Projects\ContitionalStatementsAndLoops\P07DivisibleByThree\bin\Debug\netcoreapp2.0\P07DivisibleByThree.runtimeconfig.json
+C:\VS Projects\ContitionalStatementsAndLoops\P07DivisibleByThree\bin\Debug\netcoreapp2.0\P07DivisibleByThree.runtimeconfig.dev.json
+C:\VS Projects\ContitionalStatementsAndLoops\P07DivisibleByThree\bin\Debug\netcoreapp2.0\P07DivisibleByThree.dll
+C:\VS Projects\ContitionalStatementsAndLoops\P07DivisibleByThree\bin\Debug\netcoreapp2.0\P07DivisibleByThree.pdb
+C:\VS Projects\ContitionalStatementsAndLoops\P07DivisibleByThree\obj\Debug\netcoreapp2.0\P07DivisibleByThree.csprojAssemblyReference.cache
+C:\VS Projects\ContitionalStatementsAndLoops\P07DivisibleByThree\obj\Debug\netcoreapp2.0\P07DivisibleByThree.csproj.CoreCompileInputs.cache
+C:\VS Projects\ContitionalStatementsAndLoops\P07DivisibleByThree\obj\Debug\netcoreapp2.0\P07DivisibleByThree.AssemblyInfoInputs.cache
+C:\VS Projects\ContitionalStatementsAndLoops\P07DivisibleByThree\obj\Debug\netcoreapp2.0\P07DivisibleByThree.AssemblyInfo.cs
+C:\VS Projects\ContitionalStatementsAndLoops\P07DivisibleByThree\obj\Debug\netcoreapp2.0\P07DivisibleByThree.dll
+C:\VS Projects\ContitionalStatementsAndLoops\P07DivisibleByThree\obj\Debug\netcoreapp2.0\P07DivisibleByThree.pdb

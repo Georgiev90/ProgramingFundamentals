@@ -1,0 +1,11 @@
+C:\VS Projects\ContitionalStatementsAndLoops\P05ForeignLanguages\bin\Debug\netcoreapp2.0\P05ForeignLanguages.deps.json
+C:\VS Projects\ContitionalStatementsAndLoops\P05ForeignLanguages\bin\Debug\netcoreapp2.0\P05ForeignLanguages.runtimeconfig.json
+C:\VS Projects\ContitionalStatementsAndLoops\P05ForeignLanguages\bin\Debug\netcoreapp2.0\P05ForeignLanguages.runtimeconfig.dev.json
+C:\VS Projects\ContitionalStatementsAndLoops\P05ForeignLanguages\bin\Debug\netcoreapp2.0\P05ForeignLanguages.dll
+C:\VS Projects\ContitionalStatementsAndLoops\P05ForeignLanguages\bin\Debug\netcoreapp2.0\P05ForeignLanguages.pdb
+C:\VS Projects\ContitionalStatementsAndLoops\P05ForeignLanguages\obj\Debug\netcoreapp2.0\P05ForeignLanguages.csproj.CoreCompileInputs.cache
+C:\VS Projects\ContitionalStatementsAndLoops\P05ForeignLanguages\obj\Debug\netcoreapp2.0\P05ForeignLanguages.AssemblyInfoInputs.cache
+C:\VS Projects\ContitionalStatementsAndLoops\P05ForeignLanguages\obj\Debug\netcoreapp2.0\P05ForeignLanguages.AssemblyInfo.cs
+C:\VS Projects\ContitionalStatementsAndLoops\P05ForeignLanguages\obj\Debug\netcoreapp2.0\P05ForeignLanguages.dll
+C:\VS Projects\ContitionalStatementsAndLoops\P05ForeignLanguages\obj\Debug\netcoreapp2.0\P05ForeignLanguages.pdb
+C:\VS Projects\ContitionalStatementsAndLoops\P05ForeignLanguages\obj\Debug\netcoreapp2.0\P05ForeignLanguages.csprojAssemblyReference.cache
