@@ -1,0 +1,11 @@
+C:\VS Projects\CSharpContitionalStatementsAndLoops\ChooseAdrinkV2\bin\Debug\netcoreapp2.0\02ChooseAdrinkV2.deps.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\ChooseAdrinkV2\bin\Debug\netcoreapp2.0\02ChooseAdrinkV2.runtimeconfig.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\ChooseAdrinkV2\bin\Debug\netcoreapp2.0\02ChooseAdrinkV2.runtimeconfig.dev.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\ChooseAdrinkV2\bin\Debug\netcoreapp2.0\02ChooseAdrinkV2.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\ChooseAdrinkV2\bin\Debug\netcoreapp2.0\02ChooseAdrinkV2.pdb
+C:\VS Projects\CSharpContitionalStatementsAndLoops\ChooseAdrinkV2\obj\Debug\netcoreapp2.0\02ChooseAdrinkV2.csprojAssemblyReference.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\ChooseAdrinkV2\obj\Debug\netcoreapp2.0\02ChooseAdrinkV2.csproj.CoreCompileInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\ChooseAdrinkV2\obj\Debug\netcoreapp2.0\02ChooseAdrinkV2.AssemblyInfoInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\ChooseAdrinkV2\obj\Debug\netcoreapp2.0\02ChooseAdrinkV2.AssemblyInfo.cs
+C:\VS Projects\CSharpContitionalStatementsAndLoops\ChooseAdrinkV2\obj\Debug\netcoreapp2.0\02ChooseAdrinkV2.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\ChooseAdrinkV2\obj\Debug\netcoreapp2.0\02ChooseAdrinkV2.pdb
