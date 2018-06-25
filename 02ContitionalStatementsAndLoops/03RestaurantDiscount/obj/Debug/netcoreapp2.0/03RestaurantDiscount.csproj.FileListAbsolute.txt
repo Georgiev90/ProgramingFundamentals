@@ -1,0 +1,11 @@
+C:\VS Projects\CSharpContitionalStatementsAndLoops\RestaurantDiscount\bin\Debug\netcoreapp2.0\03RestaurantDiscount.deps.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\RestaurantDiscount\bin\Debug\netcoreapp2.0\03RestaurantDiscount.runtimeconfig.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\RestaurantDiscount\bin\Debug\netcoreapp2.0\03RestaurantDiscount.runtimeconfig.dev.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\RestaurantDiscount\bin\Debug\netcoreapp2.0\03RestaurantDiscount.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\RestaurantDiscount\bin\Debug\netcoreapp2.0\03RestaurantDiscount.pdb
+C:\VS Projects\CSharpContitionalStatementsAndLoops\RestaurantDiscount\obj\Debug\netcoreapp2.0\03RestaurantDiscount.csprojAssemblyReference.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\RestaurantDiscount\obj\Debug\netcoreapp2.0\03RestaurantDiscount.csproj.CoreCompileInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\RestaurantDiscount\obj\Debug\netcoreapp2.0\03RestaurantDiscount.AssemblyInfoInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\RestaurantDiscount\obj\Debug\netcoreapp2.0\03RestaurantDiscount.AssemblyInfo.cs
+C:\VS Projects\CSharpContitionalStatementsAndLoops\RestaurantDiscount\obj\Debug\netcoreapp2.0\03RestaurantDiscount.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\RestaurantDiscount\obj\Debug\netcoreapp2.0\03RestaurantDiscount.pdb

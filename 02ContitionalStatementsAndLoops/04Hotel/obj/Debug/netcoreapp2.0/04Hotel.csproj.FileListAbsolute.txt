@@ -1,0 +1,11 @@
+C:\VS Projects\CSharpContitionalStatementsAndLoops\04Hotel\bin\Debug\netcoreapp2.0\04Hotel.deps.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\04Hotel\bin\Debug\netcoreapp2.0\04Hotel.runtimeconfig.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\04Hotel\bin\Debug\netcoreapp2.0\04Hotel.runtimeconfig.dev.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\04Hotel\bin\Debug\netcoreapp2.0\04Hotel.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\04Hotel\bin\Debug\netcoreapp2.0\04Hotel.pdb
+C:\VS Projects\CSharpContitionalStatementsAndLoops\04Hotel\obj\Debug\netcoreapp2.0\04Hotel.csprojAssemblyReference.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\04Hotel\obj\Debug\netcoreapp2.0\04Hotel.csproj.CoreCompileInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\04Hotel\obj\Debug\netcoreapp2.0\04Hotel.AssemblyInfoInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\04Hotel\obj\Debug\netcoreapp2.0\04Hotel.AssemblyInfo.cs
+C:\VS Projects\CSharpContitionalStatementsAndLoops\04Hotel\obj\Debug\netcoreapp2.0\04Hotel.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\04Hotel\obj\Debug\netcoreapp2.0\04Hotel.pdb
