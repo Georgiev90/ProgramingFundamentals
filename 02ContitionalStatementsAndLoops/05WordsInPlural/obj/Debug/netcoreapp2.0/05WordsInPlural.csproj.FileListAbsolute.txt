@@ -1,0 +1,11 @@
+C:\VS Projects\CSharpContitionalStatementsAndLoops\05WordsInPlural\obj\Debug\netcoreapp2.0\05WordsInPlural.csprojAssemblyReference.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\05WordsInPlural\obj\Debug\netcoreapp2.0\05WordsInPlural.csproj.CoreCompileInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\05WordsInPlural\obj\Debug\netcoreapp2.0\05WordsInPlural.AssemblyInfoInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\05WordsInPlural\obj\Debug\netcoreapp2.0\05WordsInPlural.AssemblyInfo.cs
+C:\VS Projects\CSharpContitionalStatementsAndLoops\05WordsInPlural\bin\Debug\netcoreapp2.0\05WordsInPlural.deps.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\05WordsInPlural\bin\Debug\netcoreapp2.0\05WordsInPlural.runtimeconfig.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\05WordsInPlural\bin\Debug\netcoreapp2.0\05WordsInPlural.runtimeconfig.dev.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\05WordsInPlural\bin\Debug\netcoreapp2.0\05WordsInPlural.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\05WordsInPlural\bin\Debug\netcoreapp2.0\05WordsInPlural.pdb
+C:\VS Projects\CSharpContitionalStatementsAndLoops\05WordsInPlural\obj\Debug\netcoreapp2.0\05WordsInPlural.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\05WordsInPlural\obj\Debug\netcoreapp2.0\05WordsInPlural.pdb
