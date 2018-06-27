@@ -1,0 +1,11 @@
+C:\VS Projects\CSharpContitionalStatementsAndLoops\07CakeIngredients\bin\Debug\netcoreapp2.0\07CakeIngredients.deps.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\07CakeIngredients\bin\Debug\netcoreapp2.0\07CakeIngredients.runtimeconfig.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\07CakeIngredients\bin\Debug\netcoreapp2.0\07CakeIngredients.runtimeconfig.dev.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\07CakeIngredients\bin\Debug\netcoreapp2.0\07CakeIngredients.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\07CakeIngredients\bin\Debug\netcoreapp2.0\07CakeIngredients.pdb
+C:\VS Projects\CSharpContitionalStatementsAndLoops\07CakeIngredients\obj\Debug\netcoreapp2.0\07CakeIngredients.csprojAssemblyReference.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\07CakeIngredients\obj\Debug\netcoreapp2.0\07CakeIngredients.csproj.CoreCompileInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\07CakeIngredients\obj\Debug\netcoreapp2.0\07CakeIngredients.AssemblyInfoInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\07CakeIngredients\obj\Debug\netcoreapp2.0\07CakeIngredients.AssemblyInfo.cs
+C:\VS Projects\CSharpContitionalStatementsAndLoops\07CakeIngredients\obj\Debug\netcoreapp2.0\07CakeIngredients.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\07CakeIngredients\obj\Debug\netcoreapp2.0\07CakeIngredients.pdb
