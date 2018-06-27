@@ -1,0 +1,10 @@
+C:\VS Projects\CSharpContitionalStatementsAndLoops\10TriangleOfNumbers\bin\Debug\netcoreapp2.0\10TriangleOfNumbers.deps.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\10TriangleOfNumbers\bin\Debug\netcoreapp2.0\10TriangleOfNumbers.runtimeconfig.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\10TriangleOfNumbers\bin\Debug\netcoreapp2.0\10TriangleOfNumbers.runtimeconfig.dev.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\10TriangleOfNumbers\bin\Debug\netcoreapp2.0\10TriangleOfNumbers.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\10TriangleOfNumbers\bin\Debug\netcoreapp2.0\10TriangleOfNumbers.pdb
+C:\VS Projects\CSharpContitionalStatementsAndLoops\10TriangleOfNumbers\obj\Debug\netcoreapp2.0\10TriangleOfNumbers.csproj.CoreCompileInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\10TriangleOfNumbers\obj\Debug\netcoreapp2.0\10TriangleOfNumbers.AssemblyInfoInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\10TriangleOfNumbers\obj\Debug\netcoreapp2.0\10TriangleOfNumbers.AssemblyInfo.cs
+C:\VS Projects\CSharpContitionalStatementsAndLoops\10TriangleOfNumbers\obj\Debug\netcoreapp2.0\10TriangleOfNumbers.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\10TriangleOfNumbers\obj\Debug\netcoreapp2.0\10TriangleOfNumbers.pdb
