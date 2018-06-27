@@ -1,0 +1,11 @@
+C:\VS Projects\CSharpContitionalStatementsAndLoops\05IntervalOfNumbers\bin\Debug\netcoreapp2.0\05IntervalOfNumbers.deps.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\05IntervalOfNumbers\bin\Debug\netcoreapp2.0\05IntervalOfNumbers.runtimeconfig.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\05IntervalOfNumbers\bin\Debug\netcoreapp2.0\05IntervalOfNumbers.runtimeconfig.dev.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\05IntervalOfNumbers\bin\Debug\netcoreapp2.0\05IntervalOfNumbers.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\05IntervalOfNumbers\bin\Debug\netcoreapp2.0\05IntervalOfNumbers.pdb
+C:\VS Projects\CSharpContitionalStatementsAndLoops\05IntervalOfNumbers\obj\Debug\netcoreapp2.0\05IntervalOfNumbers.csproj.CoreCompileInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\05IntervalOfNumbers\obj\Debug\netcoreapp2.0\05IntervalOfNumbers.AssemblyInfoInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\05IntervalOfNumbers\obj\Debug\netcoreapp2.0\05IntervalOfNumbers.AssemblyInfo.cs
+C:\VS Projects\CSharpContitionalStatementsAndLoops\05IntervalOfNumbers\obj\Debug\netcoreapp2.0\05IntervalOfNumbers.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\05IntervalOfNumbers\obj\Debug\netcoreapp2.0\05IntervalOfNumbers.pdb
+C:\VS Projects\CSharpContitionalStatementsAndLoops\05IntervalOfNumbers\obj\Debug\netcoreapp2.0\05IntervalOfNumbers.csprojAssemblyReference.cache
