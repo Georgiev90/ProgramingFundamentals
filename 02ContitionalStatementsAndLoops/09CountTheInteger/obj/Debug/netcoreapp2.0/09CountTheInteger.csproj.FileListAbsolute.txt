@@ -1,0 +1,11 @@
+C:\VS Projects\CSharpContitionalStatementsAndLoops\09CountTheInteger\bin\Debug\netcoreapp2.0\09CountTheInteger.deps.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\09CountTheInteger\bin\Debug\netcoreapp2.0\09CountTheInteger.runtimeconfig.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\09CountTheInteger\bin\Debug\netcoreapp2.0\09CountTheInteger.runtimeconfig.dev.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\09CountTheInteger\bin\Debug\netcoreapp2.0\09CountTheInteger.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\09CountTheInteger\bin\Debug\netcoreapp2.0\09CountTheInteger.pdb
+C:\VS Projects\CSharpContitionalStatementsAndLoops\09CountTheInteger\obj\Debug\netcoreapp2.0\09CountTheInteger.csproj.CoreCompileInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\09CountTheInteger\obj\Debug\netcoreapp2.0\09CountTheInteger.AssemblyInfoInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\09CountTheInteger\obj\Debug\netcoreapp2.0\09CountTheInteger.AssemblyInfo.cs
+C:\VS Projects\CSharpContitionalStatementsAndLoops\09CountTheInteger\obj\Debug\netcoreapp2.0\09CountTheInteger.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\09CountTheInteger\obj\Debug\netcoreapp2.0\09CountTheInteger.pdb
+C:\VS Projects\CSharpContitionalStatementsAndLoops\09CountTheInteger\obj\Debug\netcoreapp2.0\09CountTheInteger.csprojAssemblyReference.cache
