@@ -1,0 +1,10 @@
+C:\VS Projects\CSharpContitionalStatementsAndLoops\08CalorieCount\bin\Debug\netcoreapp2.0\08CalorieCount.deps.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\08CalorieCount\bin\Debug\netcoreapp2.0\08CalorieCount.runtimeconfig.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\08CalorieCount\bin\Debug\netcoreapp2.0\08CalorieCount.runtimeconfig.dev.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\08CalorieCount\bin\Debug\netcoreapp2.0\08CalorieCount.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\08CalorieCount\bin\Debug\netcoreapp2.0\08CalorieCount.pdb
+C:\VS Projects\CSharpContitionalStatementsAndLoops\08CalorieCount\obj\Debug\netcoreapp2.0\08CalorieCount.csproj.CoreCompileInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\08CalorieCount\obj\Debug\netcoreapp2.0\08CalorieCount.AssemblyInfoInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\08CalorieCount\obj\Debug\netcoreapp2.0\08CalorieCount.AssemblyInfo.cs
+C:\VS Projects\CSharpContitionalStatementsAndLoops\08CalorieCount\obj\Debug\netcoreapp2.0\08CalorieCount.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\08CalorieCount\obj\Debug\netcoreapp2.0\08CalorieCount.pdb
