@@ -1,0 +1,10 @@
+C:\VS Projects\CSharpContitionalStatementsAndLoops\13GameNumbers\bin\Debug\netcoreapp2.0\13GameNumbers.deps.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\13GameNumbers\bin\Debug\netcoreapp2.0\13GameNumbers.runtimeconfig.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\13GameNumbers\bin\Debug\netcoreapp2.0\13GameNumbers.runtimeconfig.dev.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\13GameNumbers\bin\Debug\netcoreapp2.0\13GameNumbers.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\13GameNumbers\bin\Debug\netcoreapp2.0\13GameNumbers.pdb
+C:\VS Projects\CSharpContitionalStatementsAndLoops\13GameNumbers\obj\Debug\netcoreapp2.0\13GameNumbers.csproj.CoreCompileInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\13GameNumbers\obj\Debug\netcoreapp2.0\13GameNumbers.AssemblyInfoInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\13GameNumbers\obj\Debug\netcoreapp2.0\13GameNumbers.AssemblyInfo.cs
+C:\VS Projects\CSharpContitionalStatementsAndLoops\13GameNumbers\obj\Debug\netcoreapp2.0\13GameNumbers.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\13GameNumbers\obj\Debug\netcoreapp2.0\13GameNumbers.pdb
