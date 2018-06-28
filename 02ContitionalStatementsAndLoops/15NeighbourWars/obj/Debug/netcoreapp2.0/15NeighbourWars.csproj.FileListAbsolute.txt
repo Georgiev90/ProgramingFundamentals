@@ -1,0 +1,11 @@
+C:\VS Projects\CSharpContitionalStatementsAndLoops\15NeighbourWars\bin\Debug\netcoreapp2.0\15NeighbourWars.deps.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\15NeighbourWars\bin\Debug\netcoreapp2.0\15NeighbourWars.runtimeconfig.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\15NeighbourWars\bin\Debug\netcoreapp2.0\15NeighbourWars.runtimeconfig.dev.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\15NeighbourWars\bin\Debug\netcoreapp2.0\15NeighbourWars.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\15NeighbourWars\bin\Debug\netcoreapp2.0\15NeighbourWars.pdb
+C:\VS Projects\CSharpContitionalStatementsAndLoops\15NeighbourWars\obj\Debug\netcoreapp2.0\15NeighbourWars.csprojAssemblyReference.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\15NeighbourWars\obj\Debug\netcoreapp2.0\15NeighbourWars.csproj.CoreCompileInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\15NeighbourWars\obj\Debug\netcoreapp2.0\15NeighbourWars.AssemblyInfoInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\15NeighbourWars\obj\Debug\netcoreapp2.0\15NeighbourWars.AssemblyInfo.cs
+C:\VS Projects\CSharpContitionalStatementsAndLoops\15NeighbourWars\obj\Debug\netcoreapp2.0\15NeighbourWars.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\15NeighbourWars\obj\Debug\netcoreapp2.0\15NeighbourWars.pdb
