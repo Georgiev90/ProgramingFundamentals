@@ -1,0 +1,11 @@
+C:\VS Projects\CSharpContitionalStatementsAndLoops\11FiveDifferentNumbers\bin\Debug\netcoreapp2.0\11FiveDifferentNumbers.deps.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\11FiveDifferentNumbers\bin\Debug\netcoreapp2.0\11FiveDifferentNumbers.runtimeconfig.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\11FiveDifferentNumbers\bin\Debug\netcoreapp2.0\11FiveDifferentNumbers.runtimeconfig.dev.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\11FiveDifferentNumbers\bin\Debug\netcoreapp2.0\11FiveDifferentNumbers.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\11FiveDifferentNumbers\bin\Debug\netcoreapp2.0\11FiveDifferentNumbers.pdb
+C:\VS Projects\CSharpContitionalStatementsAndLoops\11FiveDifferentNumbers\obj\Debug\netcoreapp2.0\11FiveDifferentNumbers.csprojAssemblyReference.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\11FiveDifferentNumbers\obj\Debug\netcoreapp2.0\11FiveDifferentNumbers.csproj.CoreCompileInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\11FiveDifferentNumbers\obj\Debug\netcoreapp2.0\11FiveDifferentNumbers.AssemblyInfoInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\11FiveDifferentNumbers\obj\Debug\netcoreapp2.0\11FiveDifferentNumbers.AssemblyInfo.cs
+C:\VS Projects\CSharpContitionalStatementsAndLoops\11FiveDifferentNumbers\obj\Debug\netcoreapp2.0\11FiveDifferentNumbers.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\11FiveDifferentNumbers\obj\Debug\netcoreapp2.0\11FiveDifferentNumbers.pdb
