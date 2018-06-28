@@ -1,0 +1,10 @@
+C:\VS Projects\CSharpContitionalStatementsAndLoops\14MagicLetter\bin\Debug\netcoreapp2.0\14MagicLetter.deps.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\14MagicLetter\bin\Debug\netcoreapp2.0\14MagicLetter.runtimeconfig.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\14MagicLetter\bin\Debug\netcoreapp2.0\14MagicLetter.runtimeconfig.dev.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\14MagicLetter\bin\Debug\netcoreapp2.0\14MagicLetter.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\14MagicLetter\bin\Debug\netcoreapp2.0\14MagicLetter.pdb
+C:\VS Projects\CSharpContitionalStatementsAndLoops\14MagicLetter\obj\Debug\netcoreapp2.0\14MagicLetter.csproj.CoreCompileInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\14MagicLetter\obj\Debug\netcoreapp2.0\14MagicLetter.AssemblyInfoInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\14MagicLetter\obj\Debug\netcoreapp2.0\14MagicLetter.AssemblyInfo.cs
+C:\VS Projects\CSharpContitionalStatementsAndLoops\14MagicLetter\obj\Debug\netcoreapp2.0\14MagicLetter.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\14MagicLetter\obj\Debug\netcoreapp2.0\14MagicLetter.pdb
