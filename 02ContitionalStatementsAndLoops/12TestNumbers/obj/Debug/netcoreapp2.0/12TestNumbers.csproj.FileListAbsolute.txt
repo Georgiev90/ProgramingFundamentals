@@ -1,0 +1,10 @@
+C:\VS Projects\CSharpContitionalStatementsAndLoops\12TestNumbers\bin\Debug\netcoreapp2.0\12TestNumbers.deps.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\12TestNumbers\bin\Debug\netcoreapp2.0\12TestNumbers.runtimeconfig.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\12TestNumbers\bin\Debug\netcoreapp2.0\12TestNumbers.runtimeconfig.dev.json
+C:\VS Projects\CSharpContitionalStatementsAndLoops\12TestNumbers\bin\Debug\netcoreapp2.0\12TestNumbers.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\12TestNumbers\bin\Debug\netcoreapp2.0\12TestNumbers.pdb
+C:\VS Projects\CSharpContitionalStatementsAndLoops\12TestNumbers\obj\Debug\netcoreapp2.0\12TestNumbers.csproj.CoreCompileInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\12TestNumbers\obj\Debug\netcoreapp2.0\12TestNumbers.AssemblyInfoInputs.cache
+C:\VS Projects\CSharpContitionalStatementsAndLoops\12TestNumbers\obj\Debug\netcoreapp2.0\12TestNumbers.AssemblyInfo.cs
+C:\VS Projects\CSharpContitionalStatementsAndLoops\12TestNumbers\obj\Debug\netcoreapp2.0\12TestNumbers.dll
+C:\VS Projects\CSharpContitionalStatementsAndLoops\12TestNumbers\obj\Debug\netcoreapp2.0\12TestNumbers.pdb
