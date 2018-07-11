@@ -1,0 +1,11 @@
+C:\VS Projects\DataTypesAndVariables\00LiveDemo\bin\Debug\netcoreapp2.0\00LiveDemo.deps.json
+C:\VS Projects\DataTypesAndVariables\00LiveDemo\bin\Debug\netcoreapp2.0\00LiveDemo.runtimeconfig.json
+C:\VS Projects\DataTypesAndVariables\00LiveDemo\bin\Debug\netcoreapp2.0\00LiveDemo.runtimeconfig.dev.json
+C:\VS Projects\DataTypesAndVariables\00LiveDemo\bin\Debug\netcoreapp2.0\00LiveDemo.dll
+C:\VS Projects\DataTypesAndVariables\00LiveDemo\bin\Debug\netcoreapp2.0\00LiveDemo.pdb
+C:\VS Projects\DataTypesAndVariables\00LiveDemo\obj\Debug\netcoreapp2.0\00LiveDemo.csprojAssemblyReference.cache
+C:\VS Projects\DataTypesAndVariables\00LiveDemo\obj\Debug\netcoreapp2.0\00LiveDemo.csproj.CoreCompileInputs.cache
+C:\VS Projects\DataTypesAndVariables\00LiveDemo\obj\Debug\netcoreapp2.0\00LiveDemo.AssemblyInfoInputs.cache
+C:\VS Projects\DataTypesAndVariables\00LiveDemo\obj\Debug\netcoreapp2.0\00LiveDemo.AssemblyInfo.cs
+C:\VS Projects\DataTypesAndVariables\00LiveDemo\obj\Debug\netcoreapp2.0\00LiveDemo.dll
+C:\VS Projects\DataTypesAndVariables\00LiveDemo\obj\Debug\netcoreapp2.0\00LiveDemo.pdb
