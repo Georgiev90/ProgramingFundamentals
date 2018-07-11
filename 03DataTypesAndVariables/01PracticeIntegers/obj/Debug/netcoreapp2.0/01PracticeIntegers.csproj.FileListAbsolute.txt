@@ -1,0 +1,10 @@
+C:\VS Projects\DataTypesAndVariables\01PracticeIntegers\bin\Debug\netcoreapp2.0\01PracticeIntegers.deps.json
+C:\VS Projects\DataTypesAndVariables\01PracticeIntegers\bin\Debug\netcoreapp2.0\01PracticeIntegers.runtimeconfig.json
+C:\VS Projects\DataTypesAndVariables\01PracticeIntegers\bin\Debug\netcoreapp2.0\01PracticeIntegers.runtimeconfig.dev.json
+C:\VS Projects\DataTypesAndVariables\01PracticeIntegers\bin\Debug\netcoreapp2.0\01PracticeIntegers.dll
+C:\VS Projects\DataTypesAndVariables\01PracticeIntegers\bin\Debug\netcoreapp2.0\01PracticeIntegers.pdb
+C:\VS Projects\DataTypesAndVariables\01PracticeIntegers\obj\Debug\netcoreapp2.0\01PracticeIntegers.csproj.CoreCompileInputs.cache
+C:\VS Projects\DataTypesAndVariables\01PracticeIntegers\obj\Debug\netcoreapp2.0\01PracticeIntegers.AssemblyInfoInputs.cache
+C:\VS Projects\DataTypesAndVariables\01PracticeIntegers\obj\Debug\netcoreapp2.0\01PracticeIntegers.AssemblyInfo.cs
+C:\VS Projects\DataTypesAndVariables\01PracticeIntegers\obj\Debug\netcoreapp2.0\01PracticeIntegers.dll
+C:\VS Projects\DataTypesAndVariables\01PracticeIntegers\obj\Debug\netcoreapp2.0\01PracticeIntegers.pdb
